@@ -1,8 +1,8 @@
-#Pagina de juegos
+# Pagina de juegos
 
 Proyecto de una pagina de juegos **Game page**.
 
-##H.D.G.
+## H.D.G.
 
 * HTML
 * CSS
